@@ -1,6 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Table Practice
+`nvm use 12.18.0`
+`yarn install`
+`yarn start`
 
 ## Available Scripts
 
